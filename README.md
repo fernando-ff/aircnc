@@ -1,56 +1,73 @@
-# AirCnc
+<div align="center" id="top"> 
+  <img src="./assets/Screenshot_2020-08-29 Formação React JS Alura - Cursos online de tecnologia.png" alt="Aircnc" />
 
- Plataforma inspirada na airbnb, mas ao invés de organizar e oferecer hospedagem  em casa ou experiências de turismo, a aircnc organiza o encontro de desenvolvedores e empresas.  
- 
+  &#xa0;
+
+</div>
+
+<h1 align="center">Aircnc</h1>
+
+<p align="center">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/fernando-ff/aircnc?color=56BEB8">
+
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/fernando-ff/aircnc?color=56BEB8">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/fernando-ff/aircnc?color=56BEB8">
+
+  <!-- <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/aircnc?color=56BEB8"> -->
+
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/aircnc?color=56BEB8" /> -->
+
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/aircnc?color=56BEB8" /> -->
+
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/aircnc?color=56BEB8" /> -->
+</p>
+
+<!-- Status -->
+
+<!-- <h4 align="center"> 
+	🚧  Aircnc 🚀 Under construction...  🚧
+</h4> 
+
+<hr> -->
+
+<p align="center">
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="https://github.com/fernando-ff" target="_blank">Author</a>
+</p>
+
+<br>
+
+## :dart: About ##
+
+Similar with the AirBnb, some differences is on the target public , in AirCnc our public target is the companies that desire new devs to help making them great.
+
+## :sparkles: Features ##
+
+:heavy_check_mark: Login;\
+:heavy_check_mark: Register;\
+:heavy_check_mark: Find new dev;\
+:heavy_check_mark: See dev skills;\
+:heavy_check_mark: Find new company;
+
+## :white_check_mark: Image Project ##
+
+  <img src="./assets/AirCnC-1024x627.jpg" alt="Aircnc" />
+
+## :rocket: Technologies ##
+
+The following tools were used in this project:
+
+- [Expo](https://expo.io/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
 
 
+Made with :heart: by <a href="https://github.com/fernando-ff" target="_blank">Fernando Ferreira</a>
 
+&#xa0;
 
-
-
-### Pré-requisitos
-
-Ter o gerenciador de pacotes npm instalado em sua máquina.
-Ter uma cópia do projeto em sua máquina.
-Ter o aplicativo expo instalado no seu celular.
-
-
-### Instalando
-
-Com o gerenciador de pacotes npm em sua máquina e o clone do repositorio
-
-Para executar o projeto no Brownser.
-Acesse a pasta backend através do terminal de sua máquina, em seguida execute npm start.
-Após isso acesse a pasta frontend pelo terminal de sua máquina, execute npm start.
-Em seu browser deve ser aberto uma aba automaticamente que vai direciona-lo a porta 3000.
-Nela você deve ver a plataforma sendo executada.
-Para encerrar qualquer um dos comandos anteriores basta pressionar ctrl+c no terminal que está sendo executado.
-
-
-
-
-
-## Construído com
-
-* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - Principal linguagem de programação usada
-* [NodeJS](https://nodejs.org/en/) - Interpretador javaScript utilizado na construção do backend
-* [Express](https://expressjs.com/pt-br/) - Framework utilizado na construção do backend
-* [Mongoose](https://mongoosejs.com/) - Banco de Dados não Relacional utilizado
-* [CSS3](https://rometools.github.io/rome/) - Ferramente de estilização utilizada
-* [ReactNative](https://reactnative.dev/) - Biblioteca Java Script utilizada para o desenvolvimento do mobile 
-* [ReactJS](https://pt-br.reactjs.org/) - Biblioteca Java Script utilizada para o desenvolvimento do frontend
-
-## Autores
-
-* **Diego Fernandes**	- [Diego3g](https://github.com/Diego3g)
-* **Fernando Ferreira** - [fernando-ff](https://github.com/fernando-ff)
-
-## License
-Este projeto é licenciado pela MIT licença
-Este projeto é licenciado pela ISC
-
-## Agradecimentos
-
-* https://rocketseat.com.br/
-	
-
+<a href="#top">Back to top</a>
